@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/feyzullahtemel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="feyzullah-temel-" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/feyzullahtemel/" target="blank"><img style="border-radius:15px; align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="feyzullah-temel-" height="30" width="40" /></a>
 <a href="https://discord.gg/ngQVg45XkN" style="border-radius:15px;" target="blank"><img style="border-radius:15px; align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="69eqm7SP" height="30" width="40" /></a>
 <a href="mailto:feyzullaht421@gmail.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="30" width="30" /></a>
 </p>
